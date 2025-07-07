@@ -43,11 +43,11 @@
 
 # Free Movie Streaming Websites
 
-1. **[Fmovies](https://fmovies.ps/)**
+1. **[Kiraflix](https://kiraflix.uk/)**
 
-   - **Overview**: Fmovies offers a vast collection of movies and TV shows across various genres, catering to a global audience seeking free streaming content.
+   - **Overview**: Fmovies offers a vast collection of movies, TV shows, Anime, Manga, Radio, iptv across various genres, catering to a global audience seeking free streaming and download content.
 
-2. **[Zoechip](https://zoechip.cc/)**
+2. **[Watchsy.cc](https://watchsy.cc/)**
 
    - **Overview**: Zoechip provides an extensive library of movies and TV series accessible without subscription fees, distinguished by its user-friendly interface and updated content.
 
