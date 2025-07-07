@@ -152,8 +152,8 @@ This list provides a variety of options for users looking to watch movies and TV
 
 | Number | Website                                    | Mirror                                            | Rating |
 | ------ | ------------------------------------------ | ------------------------------------------------- | ------ |
-| 1      | [FMovies](https://fmovies.ps/)             | [FMovies Mirror](https://fmovies.ps/)             | 8/10   |
-| 2      | [Zoechip](https://zoechip.cc/)             | [Zoechip Mirror](https://zoechip.cc/)             | 6/10   |
+| 1      | [Kiraflix](https://kiraflix.uk/)           | [Kiraflix Mirror](https://kiraflix.uk/)           | 8/10   |
+| 2      | [Watchsy.cc](https://watchsy.cc/)          |[Watchsy.cc Mirror](https://watchsy.cc/)           | 6/10   |
 | 3      | [Putlocker](https://putlocker.pe/)         | [Putlocker Mirror](https://putlocker.pe/)         | 7/10   |
 | 4      | [Soap2Day](https://www.soap2day.tf/)       | [Soap2Day Mirror](https://www.soap2day.tf/)       | 7/10   |
 | 5      | [1HD](https://1hd.to/)                     | [1HD Mirror](https://1hd.to/)                     | 6/10   |
